@@ -1,4 +1,4 @@
-# Customer Retention Analysis for Online Retail Company
+# Customer Segmentation Analysis for Online Retail Company
 You work for an online retail company facing declining customer retention. Your task is to analyze the provided data, identify key customer segments, and recommend personalized strategies to enhance interactions and improve retention rates effectively.
 
 
@@ -66,4 +66,4 @@ The analysis is based on two sheets provided in the dataset:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/anu12345678901234/customer-retention-analysis.git
+   git clone https://github.com/anu12345678901234/customer-segmentation.git
